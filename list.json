@@ -1,0 +1,22 @@
+[
+    {
+        "task": "Gör klart övningarna",
+        "completed": false
+    },
+    {
+        "task": "Skriv i teorihandboken",
+        "completed": false
+    },
+    {
+        "task": "Träna på gymmet",
+        "completed": false
+    },
+    {
+        "task": "Köp blommor till mamma",
+        "completed": false
+    },
+    {
+        "task": "Köp en present till fars dag",
+        "completed": false
+    }
+]
